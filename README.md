@@ -11,7 +11,7 @@ Elementos tratados en este caso:
 * conocer los datos de un ecommerce
 * técnicas de análisis orientadas a incrementar facturación y margen en un ecommerce, tanto básicas o genéricas como algunas técnicas avanzadas específicas de este sector
 * las principales métricas sobre las que tenemos que trabajar y algunas acciones CRO que podemos poner en práctica para mejorarlas
-* a construir dos recursos analíticos muy potentes para este sector: una segmentación RFM y un sistema de recomendación. 
+* a construir dos recursos analíticos importantes para este sector: una segmentación RFM y un sistema de recomendación. 
 
 Por tanto, es de aplicación general en prácticamente cualquier ecommerce.
 
